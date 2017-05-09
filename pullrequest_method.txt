@@ -1,0 +1,18 @@
+Console
+--------------------------------------------
+cd my_folder_name
+
+git add file_name
+
+git commit file_name
+
+git remote set-url origin my_repository_url
+
+git push origin my_repository_name
+---------------------------------------------
+
+
+
+go my_repository in  Official Website
+
+pullriquest click
